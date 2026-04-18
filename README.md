@@ -6,7 +6,7 @@
 
 ---
 
-## 💀 Sobre este repositorio
+## 🛡️ Sobre este repositorio
 
 Repositorio enfocado en el aprendizaje práctico de seguridad en aplicaciones móviles (Android).
 
